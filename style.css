@@ -364,6 +364,7 @@ Animation and Media Queries
         background-repeat: no-repeat;
         background-size: 70vw;
         background-position: top -25vh right -20vw;
+        padding-bottom: unset;
     }
     .hero_section__grid {
         display: grid;
@@ -375,7 +376,7 @@ Animation and Media Queries
         position: absolute;
         top: 0;
         right: 0;
-        transform: translateY(-7%);
+        transform: translateY(-12%);
         order: 1;
         background-image: unset;
         max-width: 45vw;
